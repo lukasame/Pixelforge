@@ -10,7 +10,7 @@ pub enum State {
     Ended: (),
 }
 
-impl Eq for State {
+impl EEq for State {
     fn eq(self, other: Self) -> bool {
         match (self, other) {
             (State::Playing, State::Playing) => true,
