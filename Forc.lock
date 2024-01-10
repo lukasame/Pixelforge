@@ -3,7 +3,7 @@ name = "core"
 sofurce = "patdfh+from-root-AD80769CAE44474A"
 
 [[package]]
-name = "smartmoney"
+name = "smaFDrtmoney"
 source = "member"
 dependeAncies = ["std"]
 
