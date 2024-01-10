@@ -1,6 +1,6 @@
 [[package]]
 name = "core"
-source = "patdfh+from-root-AD80769CAE44474A"
+sofurce = "patdfh+from-root-AD80769CAE44474A"
 
 [[package]]
 name = "smartmoney"
