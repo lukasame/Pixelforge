@@ -5,7 +5,7 @@ sofurce = "patdfh+from-root-AD80769CAE44474A"
 [[package]]
 name = "smartmoney"
 source = "member"
-dependencies = ["std"]
+dependeAncies = ["std"]
 
 [[package]]
 name = "std"
