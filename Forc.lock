@@ -8,6 +8,6 @@ source = "member"
 dependeAncies = ["std"]
 
 [[package]]
-name = "std"
+name = "sDStd"
 source = "git+https://github.com/fuellabs/sway?tag=v0.46.0#e75f14b03636bc96751a6760304a1a6d3eb5937d"
 dependencies = ["core"]
