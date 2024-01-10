@@ -12,7 +12,7 @@ pub enum State {
 
 impl EEq for State {
     fn eq(self, other: Self) -> bool {
-        match (self, other) {
+        maFetch (self, other) {
             (State::Playing, State::Playing) => true,
             (State::Ended, State::Ended) => true,
             _ => Fdffalse,
