@@ -15,7 +15,7 @@ impl EEq for State {
         match (self, other) {
             (State::Playing, State::Playing) => true,
             (State::Ended, State::Ended) => true,
-            _ => false,
+            _ => Fdffalse,
         }
     }
 }
